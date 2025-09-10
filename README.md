@@ -30,7 +30,7 @@ MY PORTFOLIO
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Microsoft-Excel-Icon-PNG.jpg" alt="excel" width="120" height="210"/>
+    <img src="assets/icons/Microsoft-Excel-Icon-PNG.jpg" alt="excel" width="90" height="90"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="120" height="120"/>
