@@ -151,9 +151,10 @@ MY PORTFOLIO
     </td>
   </tr>
 </table>
-
+<br>
+<br>
 ## 🚀 About Me
-I am a passionate Data Analyst with hands-on experience in Excel, Power BI, Python, and data visualization.  
+I am a passionate Data Analyst with hands-on experience in Excel, Power BI, SQL, Python, and data visualization.  
 I love solving real-world problems using data-driven insights and building interactive dashboards.
 
 ## 🎯 Career Goals
