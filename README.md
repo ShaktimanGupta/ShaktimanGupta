@@ -1,3 +1,4 @@
+MY PORTFOLIO
 <h1 align="center">Hi 👋, I'm Shaktiman Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -6,89 +7,104 @@
   <img src="https://komarev.com/ghpvc/?username=ShaktimanGupta&label=Profile%20views&color=0e75b6&style=flat" alt="ShaktimanGupta" /> 
 </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning *Data Analytics*
 
 - 👨‍💻 Watch my LinkedIn profile: [https://www.linkedin.com/in/its-shaktiman-gupta/](https://www.linkedin.com/in/its-shaktiman-gupta/)
 
-- 📫 How to reach me: **its.shaktiman.gupta@gmail.com**
+- 📫 How to reach me: *its.shaktiman.gupta@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/ShaktimanGupta" target="_blank">
+ <a href="https://github.com/ShaktimanGupta" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/shaktiman_gupta_01/" target="_blank">
+  <a href="https://www.instagram.com/shaktiman_gupta_01/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Sheets_2020_Logo.svg" alt="google-sheets" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="assets/icons/Microsoft-Excel-Icon-PNG.jpg" alt="excel" width="80" height="140"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="80" height="80"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="100" height="100"/>
+  </a>
+   <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/5968557.png" alt="google sheets" width="80" height="60"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/aws-color.png" alt="aws" width="60" height="60"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="60" height="60"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="60" height="60"/>
+  </a>
+  <a href="https://pandas.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/images.png" alt="pandas" width="60" height="60"/>
+  </a>
+  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/svgicons.png" alt="matplotlib" width="60" height="60"/>
+  </a>
 </p>
+
 
 <h3 align="left">📊 My Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/DATA-SCIENCE-JOBS-IN-INDIA-ANALYSIS-EXCEL-PROJECT">
-    <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Data Science Job Market" width="300"/>
-    <br><b>📊 Data Science Job Market Analysis</b><br>
-    Analyzed job trends using Excel datasets.
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/DATA-SCIENCE-JOBS-IN-INDIA-ANALYSIS-EXCEL-PROJECT" target="_blank">
+        <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/LIBRARY_MANAGEMENT_GOOGLE_SHEETS_PROJECT" target="_blank">
+        <img src="assets/projects/Screenshot 2025-09-10 161809.png" alt="Library management" height="100%" width="350"/>
+        <br><b>📁 LIBRARY MANAGEMENT [GOOGLE SHEETS PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI" target="_blank">
+        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="240"/>
+        <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/INDIAN-KIDS-SCREEN-TIME-ANALYSIS-PROJECT-IN-POWERBI" target="_blank">
+        <img src="assets/projects/Screenshot 2.png" width="250"/>
+        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/EDUCATIONAL_INEQUALITY_ANALYSIS_USING_GOOGLE_SHEETS" target="_blank">
+        <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="230"/>
+        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/GESTURE_GAME_MACHINE_LEARNING_PROJECT" target="_blank">
+        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="220"/>
+        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/LIBRARY_MANAGEMENT_GOOGLE_SHEETS_PROJECT">
-    <img src="assets/projects/Screenshot 2025-09-10 161809.png" alt="Library Management" width="300"/>
-    <br><b>📚 Library Management System</b><br>
-    Built an inventory system using Google Sheets.
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI">
-    <img src="assets/projects/Screenshot 2025-09-10 195336.png" alt="Mobile Sales Dashboard" width="300"/>
-    <br><b>📈 Mobile Sales Dashboard</b><br>
-    Visualized mobile sales data in Power BI.
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/INDIAN-KIDS-SCREEN-TIME-ANALYSIS-PROJECT-IN-POWERBI">
-    <img src="assets/projects/Screenshot 2.png" width="300"/>
-    <br><b>📱 Indian Kids Screen Time Analysis</b><br>
-    Analyzed screen time trends in Power BI.
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/EDUCATIONAL_INEQUALITY_ANALYSIS_USING_GOOGLE_SHEETS">
-    <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="300"/>
-    <br><b>🎓 Educational Inequality Analysis</b><br>
-    Studied inequality trends using Google Sheets.
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/GESTURE_GAME_MACHINE_LEARNING_PROJECT">
-    <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="300"/>
-    <br><b>🤖 Gesture Based Shooting Game</b><br>
-    Interactive game using OpenCV & ML.
-  </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaktimanGupta&show_icons=true&locale=en&layout=compact" alt="ShaktimanGupta" /></p>
 
