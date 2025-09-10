@@ -29,7 +29,8 @@
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_AreaHeading_64x64_B_Desktop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=116&hei=116&qlt=100&fit=constrain" alt="excel" width="80" height="300"/>
+    <img src="<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/>
+" alt="excel" width="80" height="300"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
