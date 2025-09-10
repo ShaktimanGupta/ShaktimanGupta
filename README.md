@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI" target="_blank">
-        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="245"/>
+        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="240"/>
         <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
@@ -85,19 +85,19 @@
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/INDIAN-KIDS-SCREEN-TIME-ANALYSIS-PROJECT-IN-POWERBI" target="_blank">
         <img src="assets/projects/Screenshot 2.png" width="250"/>
-        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS </b>
+        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/ShaktimanGupta/YourProjectRepo4" target="_blank">
-        <img src="assets/projects/covid_analysis.png" alt="COVID-19 Data Analysis" width="250"/>
-        <br><b>📁 COVID-19 Data Analysis</b>
+      <a href="https://github.com/ShaktimanGupta/EDUCATIONAL_INEQUALITY_ANALYSIS_USING_GOOGLE_SHEETS" target="_blank">
+        <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="250"/>
+        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">
-        <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
-        <br><b>📁 Gesture Fitness Game</b>
+      <a href="https://github.com/ShaktimanGupta/GESTURE_GAME_MACHINE_LEARNING_PROJECT" target="_blank">
+        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="250"/>
+        <br><b>📁 GESTURE BASED SHOOTING GAME</b>
       </a>
     </td>
   </tr>
