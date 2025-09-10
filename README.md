@@ -75,9 +75,9 @@
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">
+      <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI" target="_blank">
         <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
-        <br><b>📁 Gesture Fitness Game</b>
+        <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
   </tr>
