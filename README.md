@@ -26,10 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
@@ -41,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg" alt="google-sheets" width="40" height="40"/>
+    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg" alt="google-sheets" width="80" height="200"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
