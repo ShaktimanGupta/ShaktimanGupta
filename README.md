@@ -17,10 +17,10 @@
   <a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/its_.ajaz_" target="blank">
+  <a href="https://www.instagram.com/shaktiman_gupta_01/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/ajazah" target="blank">
+  <a href="https://www.leetcode.com/shaktiman" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
@@ -39,14 +39,23 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="40" height="40"/>
   </a>
+   <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/5968557.png" alt="google sheets" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/aws-color.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/hd-python-logo-symbol-transparent-png-7358.png" alt="python" width="40" height="40"/>
+    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/images.png" alt="opencv" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/images.png" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/svgicons.png" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
 
