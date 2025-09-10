@@ -29,16 +29,16 @@
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Microsoft-Excel-Icon-PNG.jpg" alt="excel" width="80" height="80"/>
+    <img src="assets/icons/Microsoft-Excel-Icon-PNG.jpg" alt="excel" width="80" height="100"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="80" height="80"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="80" height="80"/>
+    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="100" height="100"/>
   </a>
    <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/5968557.png" alt="google sheets" width="60" height="60"/>
+    <img src="assets/icons/5968557.png" alt="google sheets" width="80" height="60"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/aws-color.png" alt="aws" width="60" height="60"/>
