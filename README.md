@@ -90,14 +90,14 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/EDUCATIONAL_INEQUALITY_ANALYSIS_USING_GOOGLE_SHEETS" target="_blank">
-        <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="250"/>
+        <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="230"/>
         <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/GESTURE_GAME_MACHINE_LEARNING_PROJECT" target="_blank">
-        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="250"/>
-        <br><b>📁 GESTURE BASED SHOOTING GAME</b>
+        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="220"/>
+        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
       </a>
     </td>
   </tr>
