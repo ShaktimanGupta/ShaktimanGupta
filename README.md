@@ -26,7 +26,7 @@ MY PORTFOLIO
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES AND TOOLS:</h3>
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@ MY PORTFOLIO
 </p>
 
 
-<h3 align="left">📊 My Projects</h3>
+<h3 align="left">📊 MY PROJECTS </h3>
 
 <table>
   <tr>
@@ -110,34 +110,51 @@ MY PORTFOLIO
 <table>
   <tr>
     <td align="center" width="300">
-        <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+        <img src="assets/certifications/Screenshot 2025-09-10 211651.png" alt="Sales Dashboard" width="250"/>
         <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
       </a>
     </td>
     <td align="center" width="300">
-       <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+       <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.29_7b10dda2.jpg" width="250"/>
         <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
       </a>
     </td>
     <td align="center" width="300">
-        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="240"/>
+        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.30_09a38ebb.jpg" height="90%" width="240"/>
         <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-        <img src="assets/projects/Screenshot 2.png" width="250"/>
+        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.30_3155260d.jpg" width="250"/>
         <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
-      <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="230"/>
+      <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.31_16fee396.jpg" width="230"/>
         <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
-        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="220"/>
+        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.31_320dab8d.jpg" width="220"/>
+        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="300">
+        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.32_541e0352.jpg" width="250"/>
+        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.35_572da005.jpg" width="230"/>
+        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.36_1e4ba866.jpg" width="220"/>
         <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
       </a>
     </td>
