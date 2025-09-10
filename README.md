@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
@@ -64,6 +64,18 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">📊 My Projects</h3>
+
+<p align="center">
+  <img src="https://github.com/ShaktimanGupta/ShaktimanGupta/raw/main/98f74f8f-cc54-4814-94d2-3dffeb932ed5.png" alt="project-image" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShaktimanGupta/YourProjectRepo1" target="_blank">📁 Project 1 - Sales Dashboard</a><br>
+  <a href="https://github.com/ShaktimanGupta/YourProjectRepo2" target="_blank">📁 Project 2 - Pizza Sales Analysis</a><br>
+  <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">📁 Project 3 - Gesture Fitness Game</a>
 </p>
 
 
