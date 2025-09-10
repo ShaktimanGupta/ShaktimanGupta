@@ -58,7 +58,7 @@ MY PORTFOLIO
   </a>
 </p>
 
-
+<br>
 <h3 align="left">📊 MY PROJECTS </h3>
 
 <table>
@@ -104,58 +104,49 @@ MY PORTFOLIO
   </tr>
 </table>
 
-
+<br>
 <h3 align="left">📊 MY CERTIFICATIONS </h3>
 
 <table>
   <tr>
     <td align="center" width="300">
         <img src="assets/certifications/Screenshot 2025-09-10 211651.png" alt="Sales Dashboard" width="250"/>
-        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
       </a>
     </td>
     <td align="center" width="300">
        <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.29_7b10dda2.jpg" width="250"/>
-        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
       </a>
     </td>
     <td align="center" width="300">
         <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.30_09a38ebb.jpg" height="90%" width="240"/>
-        <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
         <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.30_3155260d.jpg" width="250"/>
-        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
       <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.31_16fee396.jpg" width="230"/>
-        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
         <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.31_320dab8d.jpg" width="220"/>
-        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
       </a>
     </td>
   </tr>
    <tr>
     <td align="center" width="300">
         <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.32_541e0352.jpg" width="250"/>
-        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
       <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.35_572da005.jpg" width="230"/>
-        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
         <img src="assets/certifications/WhatsApp Image 2025-09-10 at 21.01.36_1e4ba866.jpg" width="220"/>
-        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
       </a>
     </td>
   </tr>
