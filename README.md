@@ -12,7 +12,7 @@ MY PORTFOLIO
 - 👨‍💻 Watch my LinkedIn profile: [https://www.linkedin.com/in/its-shaktiman-gupta/](https://www.linkedin.com/in/its-shaktiman-gupta/)
 
 - 📫 How to reach me: *its.shaktiman.gupta@gmail.com*
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="blank">
@@ -25,7 +25,7 @@ MY PORTFOLIO
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
+<br>
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
 
 <p align="left">
@@ -110,7 +110,7 @@ MY PORTFOLIO
 <table>
   <tr>
     <td align="center" width="300">
-        <img src="assets/certifications/Screenshot 2025-09-10 211651.png" alt="Sales Dashboard" width="250"/>
+        <img src="assets/certifications/Screenshot 2025-09-10 211651.png" alt="Sales Dashboard" width="300"/>
       </a>
     </td>
     <td align="center" width="300">
