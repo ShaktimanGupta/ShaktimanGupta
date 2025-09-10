@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=its-shaktiman-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="its-shaktiman-gupta" /> 
+  <img src="https://komarev.com/ghpvc/?username=ShaktimanGupta&label=Profile%20views&color=0e75b6&style=flat" alt="ShaktimanGupta" /> 
 </p>
 
 - 🌱 I’m currently learning **Data Analytics**
@@ -62,8 +62,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shaktiman-gupta&show_icons=true&locale=en&layout=compact" alt="its-shaktiman-gupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaktimanGupta&show_icons=true&locale=en&layout=compact" alt="ShaktimanGupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-shaktiman-gupta&show_icons=true&locale=en" alt="its-shaktiman-gupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaktimanGupta&show_icons=true&locale=en" alt="ShaktimanGupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-shaktiman-gupta&" alt="its-shaktiman-gupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaktimanGupta&" alt="ShaktimanGupta" /></p>
