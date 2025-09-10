@@ -30,31 +30,31 @@ MY PORTFOLIO
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="assets/icons/990-9907356_microsoft-excel-icon-microsoft-excel.jpg" alt="excel" width="90" height="90"/>
+    <img src="assets/icons/990-9907356_microsoft-excel-icon-microsoft-excel.jpg" alt="excel" width="70" height="70"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="120" height="120"/>
+    <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="95" height="95"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="150" height="150"/>
+    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="135" height="135"/>
   </a>
    <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/5968557.png" alt="google sheets" width="120" height="90"/>
+    <img src="assets/icons/5968557.png" alt="google sheets" width="95" height="70"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/aws-color.png" alt="aws" width="90" height="90"/>
+    <img src="assets/icons/aws-color.png" alt="aws" width="70" height="70"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="90" height="90"/>
+    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="70" height="70"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="90" height="90"/>
+    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="70" height="70"/>
   </a>
   <a href="https://pandas.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/images.png" alt="pandas" width="90" height="90"/>
+    <img src="assets/icons/images.png" alt="pandas" width="70" height="70"/>
   </a>
   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/svgicons.png" alt="matplotlib" width="90" height="90"/>
+    <img src="assets/icons/svgicons.png" alt="matplotlib" width="70" height="70"/>
   </a>
 </p>
 
