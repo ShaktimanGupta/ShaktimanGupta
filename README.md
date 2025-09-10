@@ -152,6 +152,27 @@ MY PORTFOLIO
   </tr>
 </table>
 
+## 🚀 About Me
+I am a passionate Data Analyst with hands-on experience in Excel, Power BI, Python, and data visualization.  
+I love solving real-world problems using data-driven insights and building interactive dashboards.
+
+## 🎯 Career Goals
+- Build innovative data solutions that empower businesses.
+- Learn advanced machine learning techniques.
+- Contribute to open-source data analytics projects.
+
+## 📚 Currently Learning
+- Advanced Data Visualization in Power BI  
+- Machine Learning using Python  
+- Big Data Analytics
+
+## ⚡ Fun Fact
+I love turning raw data into meaningful stories 📊 and building fun interactive projects 🎮.
+
+---
+
+✨ Thanks for visiting my profile!
+
 <br><br>
 <br>
 <br>
