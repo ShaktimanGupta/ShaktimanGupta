@@ -2,20 +2,27 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajazah7317&label=Profile%20views&color=0e75b6&style=flat" alt="ajazah7317" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=its-shaktiman-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="its-shaktiman-gupta" /> 
+</p>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 Watch my linkedIn profile (https://www.linkedin.com/in/its-shaktiman-gupta/)
+- 👨‍💻 Watch my LinkedIn profile: [https://www.linkedin.com/in/its-shaktiman-gupta/](https://www.linkedin.com/in/its-shaktiman-gupta/)
 
-- 📫 How to reach me **its.shaktiman.gupta@gmail.com**
+- 📫 How to reach me: **its.shaktiman.gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--<a href="https://twitter.com/ajazahamad73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajazahamad73" height="30" width="40" /></a>-->
-<a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/its-shaktiman-gupta/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_.ajaz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_.ajaz_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajazah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajazah" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/its-shaktiman-gupta/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/its_.ajaz_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ajazah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,8 +62,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajazah7317&show_icons=true&locale=en&layout=compact" alt="ajazah7317" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shaktiman-gupta&show_icons=true&locale=en&layout=compact" alt="its-shaktiman-gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajazah7317&show_icons=true&locale=en" alt="ajazah7317" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-shaktiman-gupta&show_icons=true&locale=en" alt="its-shaktiman-gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajazah7317&" alt="ajazah7317" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-shaktiman-gupta&" alt="its-shaktiman-gupta" /></p>
