@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI" target="_blank">
-        <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
+        <img src="assets/projects/Screenshot 2025-09-10 195336.png" width="250"/>
         <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
