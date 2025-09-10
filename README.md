@@ -105,6 +105,45 @@ MY PORTFOLIO
 </table>
 
 
+<h3 align="left">📊 MY CERTIFICATIONS </h3>
+
+<table>
+  <tr>
+    <td align="center" width="300">
+        <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+       <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="240"/>
+        <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+        <img src="assets/projects/Screenshot 2.png" width="250"/>
+        <br><b>📁 INDIAN KIDS SCREEN TIME ANALYSIS [POWER BI PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <img src="assets/projects/Screenshot 2025-09-10 203432.png" width="230"/>
+        <br><b>📁 EDUCATIONAL INEQUALITY ANALYSIS [GOOGLE SHEETS PROJECT] </b>
+      </a>
+    </td>
+    <td align="center" width="300">
+        <img src="assets/projects/Screenshot 2024-01-21 181005.png" width="220"/>
+        <br><b>📁 GESTURE BASED SHOOTING GAME [PYTHON PROJECT] </b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaktimanGupta&show_icons=true&locale=en&layout=compact" alt="ShaktimanGupta" /></p>
 
