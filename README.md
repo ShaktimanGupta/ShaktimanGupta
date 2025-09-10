@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/MOBILE-SALES-DASHBOARD-USING-POWER-BI" target="_blank">
-        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="90%" width="250"/>
+        <img src="assets/projects/Screenshot 2025-09-10 195336.png" height="80%" width="350"/>
         <br><b>📁 MOBILE SALES ANALYSIS [POWER BI PROJECT] </b>
       </a>
     </td>
