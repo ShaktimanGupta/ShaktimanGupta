@@ -69,9 +69,9 @@
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/ShaktimanGupta/YourProjectRepo2" target="_blank">
-        <img src="assets/projects/pizza_sales.png" alt="Pizza Sales Analysis" width="250"/>
-        <br><b>📁 Pizza Sales Analysis</b>
+      <a href="https://github.com/ShaktimanGupta/LIBRARY_MANAGEMENT_GOOGLE_SHEETS_PROJECT" target="_blank">
+        <img src="assets/projects/Screenshot 2025-09-10 161809.png" alt="Library management" width="250"/>
+        <br><b>📁 LIBRARY MANAGEMENT [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
     <td align="center" width="300">
