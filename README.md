@@ -59,7 +59,7 @@ MY PORTFOLIO
 </p>
 
 <br>
-<h3 align="left">📊 MY PROJECTS </h3>
+<h3 align="left">📊 MY PROJECTS (15+) </h3>
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ MY PORTFOLIO
 </table>
 
 <br>
-<h3 align="left">📊 MY CERTIFICATIONS </h3>
+<h3 align="left">🏅 MY CERTIFICATIONS </h3>
 
 <table>
   <tr>
