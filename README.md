@@ -29,16 +29,16 @@
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_AreaHeading_64x64_B_Desktop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=116&hei=116&qlt=100&fit=constrain" alt="excel" width="80" height="300"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fit=constrain" alt="powerbi" width="400" height="100"/>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fit=constrain" alt="powerbi" width="80" height="300"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg" alt="google-sheets" width="80" height="200"/>
+    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg" alt="google-sheets" width="80" height="300"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
