@@ -74,6 +74,12 @@
         <br><b>📁 Pizza Sales Analysis</b>
       </a>
     </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">
+        <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
+        <br><b>📁 Gesture Fitness Game</b>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="300">
@@ -86,6 +92,12 @@
       <a href="https://github.com/ShaktimanGupta/YourProjectRepo4" target="_blank">
         <img src="assets/projects/covid_analysis.png" alt="COVID-19 Data Analysis" width="250"/>
         <br><b>📁 COVID-19 Data Analysis</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">
+        <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
+        <br><b>📁 Gesture Fitness Game</b>
       </a>
     </td>
   </tr>
