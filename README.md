@@ -60,15 +60,37 @@
 
 <h3 align="left">📊 My Projects</h3>
 
-<p align="center">
-  <img src="https://github.com/ShaktimanGupta/ShaktimanGupta/raw/main/98f74f8f-cc54-4814-94d2-3dffeb932ed5.png" alt="project-image" width="600"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/DATA-SCIENCE-JOBS-IN-INDIA-ANALYSIS-EXCEL-PROJECT" target="_blank">
+        <img src="assets/projects/SCREENSHOT 1 (1).png" alt="Sales Dashboard" width="250"/>
+        <br><b>📁 DATA SCIENCE JOB MARKET ANALYSIS [EXCEL PROJECT]</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/YourProjectRepo2" target="_blank">
+        <img src="assets/projects/pizza_sales.png" alt="Pizza Sales Analysis" width="250"/>
+        <br><b>📁 Pizza Sales Analysis</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">
+        <img src="assets/projects/gesture_game.png" alt="Gesture Fitness Game" width="250"/>
+        <br><b>📁 Gesture Fitness Game</b>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ShaktimanGupta/YourProjectRepo4" target="_blank">
+        <img src="assets/projects/covid_analysis.png" alt="COVID-19 Data Analysis" width="250"/>
+        <br><b>📁 COVID-19 Data Analysis</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ShaktimanGupta/YourProjectRepo1" target="_blank">📁 Project 1 - Sales Dashboard</a><br>
-  <a href="https://github.com/ShaktimanGupta/YourProjectRepo2" target="_blank">📁 Project 2 - Pizza Sales Analysis</a><br>
-  <a href="https://github.com/ShaktimanGupta/YourProjectRepo3" target="_blank">📁 Project 3 - Gesture Fitness Game</a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaktimanGupta&show_icons=true&locale=en&layout=compact" alt="ShaktimanGupta" /></p>
