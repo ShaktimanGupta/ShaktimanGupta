@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/LIBRARY_MANAGEMENT_GOOGLE_SHEETS_PROJECT" target="_blank">
-        <img src="assets/projects/Screenshot 2025-09-10 161809.png" alt="Library management" height="150" width="250"/>
+        <img src="assets/projects/Screenshot 2025-09-10 161809.png" alt="Library management" height="250" width="250"/>
         <br><b>📁 LIBRARY MANAGEMENT [GOOGLE SHEETS PROJECT] </b>
       </a>
     </td>
