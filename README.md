@@ -48,7 +48,7 @@ MY PORTFOLIO
     <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="70" height="70"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="70" height="70"/>
+    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="numpy" width="70" height="70"/>
   </a>
   <a href="https://pandas.org/" target="_blank" rel="noreferrer">
     <img src="assets/icons/images.png" alt="pandas" width="70" height="70"/>
