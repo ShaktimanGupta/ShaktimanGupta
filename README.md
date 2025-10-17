@@ -112,7 +112,7 @@ MY PORTFOLIO
     <td align="center" width="300">
       <a href="https://github.com/ShaktimanGupta/AUTOMATED-DATA-ANALYSIS-AND-VISUALIZAION-TOOL-PYTHON" target="_blank">
         <img src="assets/projects/Screenshot 2025-10-04 103324.png" width="230"/>
-        <br><b>📁 AUTOMATED DATA ANALYSIS AND VISUALIZATION [PYTHON PANDAS] </b>
+        <br><b>📁 AUTOMATED DATA ANALYSIS & VISUALIZATION [PYTHON] </b>
       </a>
     </td>
     <td align="center" width="300">
